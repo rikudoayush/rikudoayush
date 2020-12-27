@@ -17,7 +17,6 @@
  <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
 </p>
 <p align="center">
-   <img src="https://github.com/wajahatkarim3/DinoCompose/blob/master/DinoDemo.gif" alt="dino" />
    <img src="https://komarev.com/ghpvc/?username=rikudoayush" alt="rikudoayush" />
    <a href="https://twitter.com/intent/follow?screen_name=ayush_with_oneA"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@ayush_with_oneA" /></a>
    <a href="https://www.linkedin.com/in/ayush-srivastava"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ayush-srivastava" /></a>
