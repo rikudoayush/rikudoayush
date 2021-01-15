@@ -22,7 +22,7 @@
    <a href="https://www.linkedin.com/in/ayush-srivastava"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" alt="@ayush-srivastava" /></a>
 </p>
 
-# My public workds
+# My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/rikudoayush?tab=repositories)
 
 # Reach me
