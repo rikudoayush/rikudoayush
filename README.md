@@ -25,6 +25,9 @@
 # My public work
 - 👨‍💻 All of my projects are available [here](https://github.com/rikudoayush?tab=repositories)
 
+# For Beginners
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rikudoayush/Jupyter_Notebooks/master)
+
 # Reach me
 - 💬 Ask me about **anything**
 -  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [2416763@gmail.com](mailto:2416763@gmail.com)
