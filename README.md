@@ -34,6 +34,8 @@
 - <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="git" width="20" height="20"/> Twitter [@ayush_with_oneA](https://twitter.com/intent/follow?screen_name=ayush_with_oneA)
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ayush-srivastava](https://www.linkedin.com/in/ayush-srivastava)
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikudoayush&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikudoayush&layout=compact)](https://github.com/rikudoayush/github-readme-stats)
 
 <p align="center">
   <a href="https://rikudoayush.github.io//" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://rikudoayush.github.io/" height="32" width="32" /></a>
