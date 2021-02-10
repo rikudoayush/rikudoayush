@@ -35,13 +35,6 @@
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@ayush-srivastava](https://www.linkedin.com/in/ayush-srivastava)
 
 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rikudoayush&show_icons=true" alt="rikudoayush" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikudoayush&layout=compact" alt="rikudoayush" />
-</p>
-
-
 <p align="center">
   <a href="https://rikudoayush.github.io//" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://rikudoayush.github.io/" height="32" width="32" /></a>
 <a href="https://www.linkedin.com/in/ayush-srivastava/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ayush-srivastava/" height="32" width="32" /></a>
